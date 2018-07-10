@@ -1,5 +1,5 @@
 flask
-sk-learn.externals
+sk-learn
 numpy
 scipy
 
